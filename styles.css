@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EWorld Properties</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header>
+    <h1>EWorld Properties</h1>
+    <p>Your Trusted Real Estate Partner</p>
+</header>
+
+<nav>
+    <a href="#">Home</a>
+    <a href="#">Properties</a>
+    <a href="#">About</a>
+    <a href="#">Contact</a>
+</nav>
+
+<section class="hero">
+    <h2>Find Your Dream Property</h2>
+    <p>Buy • Sell • Rent Land and Houses in Awka, Amawbia, Nibo and across Anambra State.</p>
+
+    <a href="https://wa.me/2349068813678" class="btn">
+        Chat on WhatsApp
+    </a>
+</section>
+
+<footer>
+    <p>© 2026 EWorld Properties. All Rights Reserved.</p>
+</footer>
+
+</body>
+</html>
